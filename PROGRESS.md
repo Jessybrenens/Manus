@@ -4,17 +4,20 @@
 - [x] Created project directory structure (Mar 19, 2025)
 - [x] Created TASKS.md with comprehensive project breakdown (Mar 19, 2025)
 - [x] Created PROGRESS.md for tracking development (Mar 19, 2025)
-- [ ] Setup GitHub repository access
+- [x] Established GitHub repository access (Mar 19, 2025)
+- [x] Completed world-building document (Mar 19, 2025)
+- [x] Created conceptual foundation document (Mar 19, 2025)
 
 ## Current Status
-Working on setting up GitHub repository access to begin committing files according to the project specifications.
+Working on character profiles for the three POV characters: the smuggler (doubt), the warlord (zeal), and the rail-operator (despair).
 
 ## Next Steps
-- Setup GitHub repository access
-- Create World.md for world-building
 - Develop character profiles
 - Outline plot structure
 - Draft opening chapter
 
 ## Completed Tasks
 - Initial project structure setup (Mar 19, 2025)
+- Task list creation (Mar 19, 2025)
+- World-building document creation (Mar 19, 2025)
+- Conceptual foundation document creation (Mar 19, 2025)
