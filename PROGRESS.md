@@ -7,17 +7,22 @@
 - [x] Established GitHub repository access (Mar 19, 2025)
 - [x] Completed world-building document (Mar 19, 2025)
 - [x] Created conceptual foundation document (Mar 19, 2025)
+- [x] Developed character profiles (Mar 19, 2025)
+- [x] Outlined plot structure (Mar 19, 2025)
 
 ## Current Status
-Working on character profiles for the three POV characters: the smuggler (doubt), the warlord (zeal), and the rail-operator (despair).
+Working on drafting the opening chapter of "The Shattered Crescent" narrative.
 
 ## Next Steps
-- Develop character profiles
-- Outline plot structure
 - Draft opening chapter
+- Request user feedback on opening chapter
+- Complete full narrative based on feedback
+- Save final narrative as docx
 
 ## Completed Tasks
 - Initial project structure setup (Mar 19, 2025)
 - Task list creation (Mar 19, 2025)
 - World-building document creation (Mar 19, 2025)
 - Conceptual foundation document creation (Mar 19, 2025)
+- Character profiles development (Mar 19, 2025)
+- Plot structure outline (Mar 19, 2025)
