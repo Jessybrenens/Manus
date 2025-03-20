@@ -10,14 +10,28 @@
 - [x] Developed character profiles (Mar 19, 2025)
 - [x] Outlined plot structure (Mar 19, 2025)
 
+## Narrative Development
+- [x] Drafted Chapter 1: Shadows Between (Mara Vex) (Mar 19, 2025)
+- [x] Revised Chapter 1 to incorporate more human elements (Mar 19, 2025)
+- [x] Drafted Chapter 2: Broken Formation (Commander Alexis Varda) (Mar 20, 2025)
+- [ ] Draft Chapter 3: Failing Systems (Eli Reeves)
+- [ ] Continue developing remaining chapters according to outline
+
 ## Current Status
-Working on drafting the opening chapter of "The Shattered Crescent" narrative.
+Working on Chapter 3 focusing on Eli Reeves (the rail-operator embodying despair). Simultaneously updating supporting documentation to reflect story developments from Chapters 1 and 2.
+
+## Story Evolution
+- Enhanced character connections between Mara and Kade, establishing their mentor-student relationship with deeper emotional resonance
+- Developed the relationship between Commander Varda and her adopted son Kaito, highlighting the tension between military discipline and human connection
+- Revealed the true purpose of the Lunar Relay Beacon as a control system for orbital weapons platforms
+- Established the mysterious Utopian technology and potential survivors as the central threat
+- Created connections between all three POV characters that will converge around the Beacon
 
 ## Next Steps
-- Draft opening chapter
-- Request user feedback on opening chapter
-- Complete full narrative based on feedback
-- Save final narrative as docx
+- Complete Chapter 3 (Eli Reeves)
+- Update World.md, Characters.md, and Conceptual.md to reflect story developments
+- Continue developing remaining chapters
+- Compile final narrative as docx
 
 ## Completed Tasks
 - Initial project structure setup (Mar 19, 2025)
@@ -26,3 +40,5 @@ Working on drafting the opening chapter of "The Shattered Crescent" narrative.
 - Conceptual foundation document creation (Mar 19, 2025)
 - Character profiles development (Mar 19, 2025)
 - Plot structure outline (Mar 19, 2025)
+- Chapter 1 draft and revision (Mar 19, 2025)
+- Chapter 2 draft (Mar 20, 2025)
